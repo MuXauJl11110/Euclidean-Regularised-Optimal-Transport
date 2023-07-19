@@ -1,0 +1,3 @@
+from problems.base import BaseProblem
+from problems.entropy import EntropyRegularizedOTProblem
+from problems.euclidean import EuclideanRegularizedOTProblem

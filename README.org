@@ -1,0 +1,20 @@
+* About
+This is the supplementary code (in Python) for the paper
+[[https://arxiv.org/abs/2307.00321]["Algorithms for euclidean regularised Optimal Transport"]]
+by Dmitry A. Pasechnyuk, Michael Persiianov, Pavel Dvurechensky and Alexander Gasnikov.
+
+* Acknowledgement
+I am deeply thankful to [[https://github.com/nazya][Nazariy Tupitsa]] for [[https://github.com/nazya/AAM][the code]] and 
+[[https://github.com/dmivilensky][Dmitry Vilensky-Pasechnyuk]] for [[https://github.com/dmivilensky/Wasserstein-distance-calculation][the code]]
+influenced this repo.
+
+* Reference
+  If you find this code useful, please cite our paper:
+#+BEGIN_SRC
+@article{pasechnyuk2023algorithms,
+  title={Algorithms for euclidean regularised Optimal Transport},
+  author={Pasechnyuk, Dmitry A and Persiianov, Michael and Dvurechensky, Pavel and Gasnikov, Alexander},
+  journal={arXiv preprint arXiv:2307.00321},
+  year={2023}
+}
+#+END_SRC
